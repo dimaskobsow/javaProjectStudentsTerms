@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-  <link rel="stylesheet" href="static/css/student-progress.css">
+  <link rel="stylesheet" href="/term-list.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <script type="text/javascript" src="static/js/function.js?v=3" charset="UTF-8"></script>
 
@@ -24,7 +24,7 @@
   <div class="container">
     <ul class="nav nav-pills navbar">
       <li class="nav-item ">
-        <a class="nav-link active home" aria-current="page" href="../index.jsp">На главную</a>
+        <a class="nav-link active home" aria-current="page" href="home.jsp">На главную</a>
       </li>
       <li class="nav-item ">
         <a class="nav-link active exit" aria-current="page" href="#">Выход</a>
